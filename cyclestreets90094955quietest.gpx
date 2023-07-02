@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="https://www.cyclestreets.net:443/" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>School Lane to Link with Odney Common</name>
+    <desc>Cycle: School Lane to Link with Odney Common</desc>
+    <link href="https://www.cyclestreets.net:443/journey/90094955/"/>
+  </metadata>
+  <rte>
+    <name>Quietest School Lane to Link with Odney Common</name>
+    <desc>Quietest cycle journey from School Lane to Link with Odney Common</desc>
+    <rtept lon="-0.71083" lat="51.5597">
+      <name>School Lane</name>
+    </rtept>
+    <rtept lon="-0.71089" lat="51.55986">
+      <name>High Street, B4447</name>
+    </rtept>
+    <rtept lon="-0.70708" lat="51.5599">
+      <name>Ferry Lane, A4094</name>
+    </rtept>
+    <rtept lon="-0.70683" lat="51.56019">
+      <name>Odney Lane</name>
+    </rtept>
+    <rtept lon="-0.70448" lat="51.56065">
+      <name>Bridge</name>
+    </rtept>
+    <rtept lon="-0.70388" lat="51.56056">
+      <name>Odney Common</name>
+    </rtept>
+    <rtept lon="-0.70088" lat="51.56013">
+      <name>Odney Common</name>
+    </rtept>
+    <rtept lon="-0.69887" lat="51.56083">
+      <name>Odney Common</name>
+    </rtept>
+    <rtept lon="-0.6981" lat="51.56188">
+      <name>Link with Odney Common</name>
+    </rtept>
+    <rtept lon="-0.69814" lat="51.56202">
+      <name>Link with Odney Common</name>
+    </rtept>
+    <rtept lon="-0.69776" lat="51.56204">
+      <name>Link with Odney Common</name>
+    </rtept>
+    <rtept lon="-0.69774" lat="51.56203">
+      <name>Finish</name>
+    </rtept>
+  </rte>
+</gpx>
